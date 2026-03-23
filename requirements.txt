@@ -1,0 +1,4 @@
+PySide6>=6.8
+python-vlc>=3.0.21203
+mutagen>=1.47.0
+SQLAlchemy>=2.0
